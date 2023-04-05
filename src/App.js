@@ -562,23 +562,14 @@ const provider = new WalletConnectProvider({
               color: "var(--secondary)",
             }}
           >
-            KittyDinger
+            Musical NFT
           </s.TextDescription>
 
           <div>
             <div className="myImage"> </div>
           </div>
 
-          <s.TextDescription
-            style={{
-              textAlign: "center",
-              fontSize: "25px",
-              color: "var(--primary-text)",
-            }}
-          >
-            KittyDinger may look like a cute cat on the outside but behind the
-            cute exterior lies a fearsome fighter
-          </s.TextDescription>
+      
           <s.TextDescription
             style={{
               textAlign: "center",
@@ -588,7 +579,7 @@ const provider = new WalletConnectProvider({
               color: "var(--secondary)",
             }}
           >
-            MINT $KITTIES
+            MINT $TARP
           </s.TextDescription>
           <s.TextDescription
             style={{
@@ -596,12 +587,12 @@ const provider = new WalletConnectProvider({
               fontSize: "25px",
               color: "var(--primary-text)",
             }}
-          >
-            By minting you will receive $KITTIES, which can be used in game for
-            a variety of purposes.<br></br>- Choose the number of $KITTIES you
+          >One of the key benefits of our platform is that artists can earn a percentage of every sale made on their NFTs, providing them with a sustainable income stream that can help support their creative endeavors. Whether you're an established artist looking to expand your reach or a newcomer to the world of digital art, our NFT minting platform is the perfect place to showcase your talent and connect with a global community of collectors
+           <br></br> <br></br> 
+           By minting you will receive $TARP, which can earn royalties on your creations<br></br>- Choose the number of $TARP you
             wish to mint, then click on the mint button.<br></br>- A maximum of
-            12 $KITTIES can be minted per wallet.<br></br>- There will be a total
-            of 3000 $KITTIES available for minting.<br></br>
+            12 $TARP can be minted per wallet.<br></br>- There will be a total
+            of 3000 $TARP available for minting.<br></br>
             Current price: 0.07 ETH + Gas Fee<br></br>
             <br></br>
             <SocialFollow />
